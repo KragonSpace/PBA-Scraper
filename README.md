@@ -48,7 +48,9 @@ Ensure the script pba_scraper.py is in your working directory.
 2. Run the Script
 Execute the scraper using the command:
 
+```bash
 python pba_scraper.py
+```
 
 3. Outputs
 Extracted player and team information will be displayed on the terminal.
